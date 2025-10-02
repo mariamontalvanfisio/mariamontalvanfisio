@@ -3,15 +3,12 @@ body {
  .poiret-one-regular {
   font-family: "Poiret One", sans-serif;
   font-weight: 400;
-  font-style: normal;
-}
-;
-  background-color: #abe0b1;
+    background-color: #abe0b1;
   color: #0f2f1f;
 }
 header {
   background-color: #0f2f1f;
-  color: #abe0b1;
+  color: #77bf7f;
   padding: 1.5rem;
   text-align: center;
 }
@@ -24,7 +21,7 @@ nav {
   margin-top: 1rem;
 }
 nav a {
-  color: #abe0b1;
+  color: ##77bf7f;
   margin: 0 1rem;
   text-decoration: none;
   font-weight: 500;
